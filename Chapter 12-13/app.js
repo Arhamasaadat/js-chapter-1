@@ -67,7 +67,7 @@ else{
 }
 
 
-var password = "batoolMazhar6"
+var password = "Arhama saadat"
 var userPassword = prompt("Enter your password")
 
 if(userPassword == ""){
