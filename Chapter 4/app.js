@@ -1,12 +1,12 @@
 // 1. Declare 3 variables in one statement
-    var firstName = "Ahmed", age = 20, country = "Pakistan";
+    var firstName = "Hamza", age = 8, country = "Pakistan";
 
     // 2. 5 Legal variable names
-    var myName = "Ali";
-    var _hiddenValue = 100;
-    var $price = 500;
-    var user123 = "valid";
-    var camelCaseVariable = "good practice";
+    var myName = "Ahmed";
+    var _newValue = 200;
+    var $price = 100;
+    var expire = "validity";
+    var Variable = " practice";
 
     // 2. 5 Illegal variable names (commented to avoid errors)
     // var 123user;          // starts with number
