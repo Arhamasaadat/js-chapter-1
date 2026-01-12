@@ -16,34 +16,34 @@ let booleanarray = [true,false];
 //Declare and initialize a mixed array.
 let mixedarray = ["Arhama","Jasmine",true,21,false,"Hamza",17];
 
-// Declare and initialize an array and store available education qualifications in pakistan...
-let educationalQualifications = ["SSC","HSC","BCS","BS","BCOM","MS","M.Phil","PhD"];
-document.write("<h4>Qualifications:<h4>")
+// // Declare and initialize an array and store available education qualifications in pakistan...
+// let educationalQualifications = ["SSC","HSC","BCS","BS","BCOM","MS","M.Phil","PhD"];
+// document.write("<h4>Qualifications:<h4>")
 
-document.write(
-    "<span>" + qualification[0] + "</span>" +"<br>"
-)
-document.write(
-    "<span>" + qualification[1] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[2] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[3] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[4] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[5] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[6] + "</span>"+"<br>"
-)
-document.write(
-    "<span>" + qualification[7] + "</span>"+"<br>"
-)
+// document.write(
+//     "<span>" + qualification[0] + "</span>" +"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[1] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[2] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[3] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[4] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[5] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[6] + "</span>"+"<br>"
+// )
+// document.write(
+//     "<span>" + qualification[7] + "</span>"+"<br>"
+// )
 
 //// 8. Write a program to store 3 student names in an array.Take another array to store score of these three students.
 let students=["Michael","john","Tony"]
